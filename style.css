@@ -17,7 +17,7 @@ body {
     font-family: cursive;
     padding: 50px;
     text-align: center;
-    background-color: darkorange;
+    background-color: fuchsia;
     border-width: 5px;
     border-style: solid;
     border-color: aquamarine;
@@ -162,3 +162,4 @@ travel_mainDiv p {
     border-color: aqua;
     border-radius: 50px;
     background-color:fuchsia;
+}
